@@ -2,4 +2,4 @@
 
 extended list of tasks on REACT
 
-https://alexandermihalich.github.io/todoList
+https://alexandermihalich.github.io/TodoList/
