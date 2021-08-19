@@ -1,1 +1,1 @@
-https://alexandermihalich.github.io/todoList/
+https://alexandermihalich.github.io/todoList
